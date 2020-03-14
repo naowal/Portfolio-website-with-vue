@@ -1,5 +1,8 @@
 # vue-portfolio
 
+Naowal portfolio built by vue
+Created date : 14/03/2020 08:30 am.
+
 ## Project setup
 ```
 npm install
